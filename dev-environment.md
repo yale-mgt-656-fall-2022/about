@@ -18,20 +18,16 @@ personal computer is a wonderful learning experience. However, it can be
 sometimes be challenging. 
 
 Below, you will find documentation on how to get
-started on Cloud9, mac, and windows. **Unless you are
-feeling self-assured, we recommend you use Cloud9 during the
-Fall 2021 semester because, with social distancing it 
-will be difficult for us to troubleshoot problems you
-encounter on your local computer.) The options are mutually
-exclusive: if you're using Cloud9, you don't need to follow
-the instructions for Mac or Windows and vice versa.
+started on Cloud9, mac, and windows. Cloud9 is likely
+the easiest option. 
 
 ### Cloud9
 
-1. Checkout your Dashboard on the [class website](http://656.mba). Therein
+1. Checkout your Dashboard on the class website. Therein
    you should see login credentials for Cloud9. You'll need to supply an
    account number, username, and password. All that is in your dashboard
-   under the "user secrets" section.
+   under the "user secrets" section. (Early in the semester, Kyle might
+   not have added your credentials yet.)
 3. Now you're all set. Your Cloud9 environment uses
    [Amazon Linux](https://aws.amazon.com/amazon-linux-ami/). You have
    git already installed and, clearly, Cloud9 has a built-in code editor.
@@ -39,7 +35,7 @@ the instructions for Mac or Windows and vice versa.
 Here are some helpful videos related to Cloud9:
 
 * [How to log into Cloud9](https://s3.amazonaws.com/files.656.mba/Cloud9-intro.mp4).
-  (That was recorded last year, so some of the offhand remarks might 
+  (That was recorded in a past year, so some of the offhand remarks might 
   not apply to this semester).
 * How to navigate around on the shell. This shows the basic commands you'll need
   again and again. TODO: add video

@@ -2,10 +2,8 @@
 
 WARNING: this is a work in progress.
 
-Jump to [Covid info](#covid).
-
 This repo tracks information and policies
-Yale's MGT656 and MGT660 in the Fall of 2021.
+Yale's MGT656 and MGT660 in the Fall of 2022.
 
 ## Overview
 
@@ -14,11 +12,13 @@ Yale's MGT656 and MGT660 in the Fall of 2021.
 | Course number           | MGT656/660                                                                    |
 | Units                   | 4 units in Yale College and equivalent elsewhere                          |
 | Enrollment              | Open to all students from all schools at Yale                             |
-| MGT660 Meeting Location | T Th 1 PM-2:20 PM EST; Evans Hall Room 4230                            |
-| MGT660 Meeting Location | T Th 2:40 PM-4:00 PM EST; Evans Hall Room 4400                            |
-| MGT656/660 Zoom link        | See Canvas for now. Link is in there.                                     |
+| MGT660 Meeting Location | Mon/Wed 1 PM-2:20 PM EST; Evans Hall Room 4200                            |
+| MGT660 Meeting Location | Mon/Wed 2:40 PM-4:00 PM EST; Evans Hall Room 4200                            |
+| MGT656/660 Zoom link    | See Canvas for now. Link is in there.                                     |
 | MGT656 website          | http://656.mba (offline sometimes until semester begins)                  |
 | MGT660 website          | http://660.mba (offline sometimes until semester begins)                  |
+| Faculty                 | Kyle Jensen |
+| TAs                     | Aparna Krishnakumar, TBD #1, TBD #2 |
 
 
 Students in this course will learn how to manage software development teams
@@ -53,20 +53,6 @@ for adding the course.)
 Officially registering for Yale College students will require a
 form that is signed by your dean and Kyle Jensen. You can print
 these forms online (somewhere).
-
-
-## <a name="covid"></a>Covid dystopia clusterfarce 2019/2020/2021
-
-Yale SOM is doing its utmost to ensure you, students, have the best
-possible experience this fall. 
-
-Many details are still "up in the air" as I am writing this document.
-You should refer to official lines of communication (instead of
-this document) for major policies. I believe that we're going to 
-be in person and, though not socially-distanced, we will don masks.
-Classes will be recorded and also live streamed on zoom. But, unless
-there's a big number of people on zoom, I'm not going to be paying
-much attention to zoom. ¯\_(ツ)_/¯
 
 ## Course Philosophy
 
