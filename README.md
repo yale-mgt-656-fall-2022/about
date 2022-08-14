@@ -11,14 +11,14 @@ Yale's MGT656 and MGT660 in the Fall of 2022.
 | ----------------------- | ------------------------------------------------------------------------- |
 | Course number           | MGT656/660                                                                    |
 | Units                   | 4 units in Yale College and equivalent elsewhere                          |
-| Enrollment              | Open to all students from all schools at Yale                             |
-| MGT660 Meeting Location | Mon/Wed 1 PM-2:20 PM EST; Evans Hall Room 4200                            |
-| MGT660 Meeting Location | Mon/Wed 2:40 PM-4:00 PM EST; Evans Hall Room 4200                            |
+| Enrollment              | Open to all Yale students. (SOM students use biding system.)     |
+| MGT660 Meeting Location | Mon/Wed 1 PM-2:20 PM EST; [Evans Hall](https://map.yale.edu/?id=1910#!m/560094?ct/52707) Room 4200                            |
+| MGT660 Meeting Location | Mon/Wed 2:40 PM-4:00 PM EST; [Evans Hall](https://map.yale.edu/?id=1910#!m/560094?ct/52707) Room 4200                            |
 | MGT656/660 Zoom link    | See Canvas for now. Link is in there.                                     |
 | MGT656 website          | http://656.mba (offline sometimes until semester begins)                  |
 | MGT660 website          | http://660.mba (offline sometimes until semester begins)                  |
 | Faculty                 | Kyle Jensen |
-| TAs                     | Aparna Krishnakumar, TBD #1, TBD #2 |
+| TAs                     | Aparna Krishnakumar, Illina Yang, Aditya Palnitkar |
 
 
 Students in this course will learn how to manage software development teams
