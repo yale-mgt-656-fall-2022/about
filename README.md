@@ -19,6 +19,7 @@ Yale's MGT656 and MGT660 in the Fall of 2022.
 | MGT660 website          | http://660.mba (offline sometimes until semester begins)                  |
 | Faculty                 | Kyle Jensen |
 | TAs                     | Aparna Krishnakumar, Illina Yang, Aditya Palnitkar |
+| Excused absenses        | [656 form](http://files.656.mba/absent) and [660 form](http://files.660.mba/absent) |
 
 
 Students in this course will learn how to manage software development teams
