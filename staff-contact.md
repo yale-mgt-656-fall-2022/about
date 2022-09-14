@@ -4,9 +4,9 @@
 | Person          | Role    | Email                    | GitHub Handle |
 | --------------- | ------- | ------------------------ | ------------- |
 | Kyle Jensen     | Faculty | kyle.jensen@yale.edu     | kljensen      |
-| Aditya Palnitkar | aditya.palnitkar@yale.edu | palnitkar | 
-| Illina Yang | illina.yang@yale.edu | illinay |
-| Aparna Krishnakumar | aparna.krishnakumar@yale.edu |  Aparnaakk |
+| Aditya Palnitkar | TA | aditya.palnitkar@yale.edu | palnitkar | 
+| Illina Yang | TA | illina.yang@yale.edu | illinay |
+| Aparna Krishnakumar | TA | aparna.krishnakumar@yale.edu |  Aparnaakk |
 
 
 You should feel free to e-mail the teaching staff. Though,
